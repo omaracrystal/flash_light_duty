@@ -1,11 +1,19 @@
 # CAPSTONE
 
 ## Technologies:
+<<<<<<< HEAD
 - Meteor - Angular - Node - MongoDB - JavaScript - HTML5 - CSS3 - SASS - Jasmine - Cordova - Fam.us - SVGs - N.io/ WebSockets - Spacebars Compiler - Canvas
 
 #### OR?
 
 MEAN - MongoDB - Express- Node - Swig - JavaScript - HTML5 - CSS3 - SASS - Mocha&Chai - Gulp - SVGs - N.io - WebSockets - Canvas
+=======
+- Meteor - Angular - Node - MongoDB - JavaScript - HTML5 - CSS3 - SASS - Jasmine - Cordova - Fam.us - SVGs - N.io/ WebSockets - Spacebars Compiler
+
+#### OR?
+
+- MEAN - MongoDB - Express- Node - Swig - JavaScript - HTML5 - CSS3 - SASS - Mocha&Chai - Gulp - SVGs - N.io - WebSockets
+>>>>>>> 09fdac7523a4ca43f71513809f6405b4280eabaa
 
 ## Schedule:
 ### Meteor structure of project:
