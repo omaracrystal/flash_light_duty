@@ -61,9 +61,9 @@
   bottom: 0;
 }
 .envelope .planet {
-  background-image: url('http://www.cpfreviews.com/Orb-Wee-NS/DCP_8841_OrbWeeNS_Beam.jpg');
+  background-image: url('/../images/flash_light_before.png');
   background-repeat: no-repeat;
-  background-size: 50% auto;
+  background-size: 70% auto;
   background-position: center bottom;
   overflow: hidden;
   position: absolute;
@@ -78,22 +78,22 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url('http://www.cpfreviews.com/Orb-Wee-NS/DCP_8841_OrbWeeNS_Beam.jpg');
+  background-image: url('/../images/flash_light.png');
   background-repeat: no-repeat;
-  background-size: 50% auto;
+  background-size: 70% auto;
   background-position: center bottom;
   overflow: hidden;
   opacity: .5;
 }
 .envelope .planet:after {
   content: '';
-  width: 262.9493764%;
-  height: 150.2624672%;
+  width: 300%;
+  height: 150%;
   background-color: #000;
   position: absolute;
   border-radius: 50%;
-  top: 70.18% ;
-  left: -74.12280702%;
+  top: 100% ;
+  left: 0%;
   -webkit-box-shadow: 0px 0px 50px 20px #000000;
   -moz-box-shadow: 0px 0px 50px 20px #000000;
   box-shadow: 0px 0px 50px 20px #000000;
@@ -128,7 +128,7 @@
   -o-transition: all 1s;
   transition: all 1s;
 }
-.envelope .logo .p1 {
+/*.envelope .logo .p1 {
   background-image: url('http://agenciavirtude.com.br/antigo/images/p1.png');
 }
 .envelope .logo .p2 {
@@ -139,7 +139,7 @@
 }
 .envelope .logo .p4 {
   background-image: url('http://agenciavirtude.com.br/antigo/images/p4.png');
-}
+}*/
 .envelope .logo .sob {
   top: -30px;
   position: absolute;
