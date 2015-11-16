@@ -179,6 +179,12 @@
 .envelope .logo:hover .p4 {
   opacity: 1;
 }
+
+.name {
+  font-size: 3em;
+  margin-top: .6em;
+}
+
 @-moz-keyframes ma {
   0% {
     opacity: 0;
