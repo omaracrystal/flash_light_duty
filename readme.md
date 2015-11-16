@@ -1,9 +1,11 @@
 # CAPSTONE
 
 ## Technologies:
-- Meteor - Angular - Node - MongoDB - JavaScript - HTML5 - CSS3 - SASS - Jasmine - Cordova - Fam.us - SVGs - N.io/ WebSockets - Spacebars Compiler
+- Meteor - Angular - Node - MongoDB - JavaScript - HTML5 - CSS3 - SASS - Jasmine - Cordova - Fam.us - SVGs - N.io/ WebSockets - Spacebars Compiler - Canvas
+
 #### OR?
-MEAN - MongoDB - Express- Node - Swig - JavaScript - HTML5 - CSS3 - SASS - Mocha&Chai - Gulp - SVGs - N.io - WebSockets
+
+MEAN - MongoDB - Express- Node - Swig - JavaScript - HTML5 - CSS3 - SASS - Mocha&Chai - Gulp - SVGs - N.io - WebSockets - Canvas
 
 ## Schedule:
 ### Meteor structure of project:
@@ -59,4 +61,3 @@ menu: Profile, About, How to play, logout
 
 #### References:
 - https://www.meteor.com/tutorials/blaze/running-on-mobile
-- http://flash_light_game.meteor.com/
