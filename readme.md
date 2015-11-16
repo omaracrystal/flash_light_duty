@@ -61,6 +61,12 @@ menu: Profile, About, How to play, logout
 - Add your own image! pick up to three possible answers
 - Have teams!
 
+**Main Page**                       |    |**Trivia Pop-Up**
+:----------------------------------:|:--:|:----------------------------------:
+![](/src/client/images/main2.png)      |    | ![](/src/client/images/main3.png)
+
+
+![](/src/client/images/main1.png)
 
 #### References:
 - https://www.meteor.com/tutorials/blaze/running-on-mobile
