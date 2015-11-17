@@ -3,20 +3,36 @@
   <head>
     <meta charset="utf-8">
     <title>{{ title }}</title>
+    <!--fonts-->
     <link href='http://fonts.googleapis.com/css?family=Raleway:200,400,800' rel='stylesheet' type='text/css'>
+    <!--fonts-->
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <!--intro main page style sheet-->
     <link rel="stylesheet" href="/css/main.css">
+    <!--menu switch style-->
     <link rel="stylesheet" href="/css/switch.css">
-    <!--bootstrap css link-->
-  <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
-  <link href="//netdna.bootstrapcdn.com/font-awesome/3.1.1/css/font-awesome.css" rel="stylesheet">
+    <!--bootstrap style-->
+    <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
+
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.1.1/css/font-awesome.css" rel="stylesheet">
+
   </head>
   <body>
     {% block content %}
     {% endblock %}
-    <script type="text/javascript" src="http://www.marcoguglielmelli.it/Codepen/AnimatedHeaderBg/demo-1/js/TweenLite.min.js"></script>
+    <!--jquery minified -->
     <script type="text/javascript" src="//code.jquery.com/jquery-2.1.4.min.js"></script>
+    <!--bootstrap cdn-->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="/js/main.js"></script>
+    <!--canvas background inspired by-->
+    <script type="text/javascript" src="http://www.marcoguglielmelli.it/Codepen/AnimatedHeaderBg/demo-1/js/TweenLite.min.js"></script>
+    <!--canvas background logic-->
+    <script type="text/javascript" src="/js/canvasbg.js"></script>
+    <!--menu power switch-->
+     <script type="text/javascript" src="/js/menu.js"></script>
+    <!--nio.js non-minified version-->
+    <script type="text/javascript" src="/js/nio.js"></script>
+    <!--nio filtering-->
+    <script type="text/javascript" src="/js/nio2.js"></script>
   </body>
 </html>
