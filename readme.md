@@ -1,4 +1,10 @@
 # CAPSTONE
+* (This will be completed Dec 10th)
+
+## Description:
+For my capstone project I wanted to incorporate new technologies such as web sockets and accelerometer technology.
+
+This app is similar to Pictionary without the stress of having to draw anything.
 
 ## Technologies:
 
@@ -6,7 +12,7 @@
 
 #### OR?
 
-- MEAN - MongoDB - Express- Node - Swig - JavaScript - HTML5 - CSS3 - SASS - Mocha&Chai - Gulp - SVGs - N.io - WebSockets - Canvas
+- MEAN - MongoDB - Express- Node - JavaScript - HTML5 - CSS3 - SASS - Mocha&Chai - Gulp - SVGs - N.io - WebSockets - Canvas
 
 
 
