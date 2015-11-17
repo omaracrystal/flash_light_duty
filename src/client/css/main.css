@@ -1,7 +1,7 @@
-/*body {
+body {
   background-color: #000;
   font-family: 'Open Sans', Helvetica, Roboto, Arial, sans-serif;
-}*/
+}
 
 /* Header */
 #large-header {
@@ -60,7 +60,7 @@
   right: 0;
   bottom: 0;
 }
-.envelope .planet {
+.envelope .flashlight {
   background-image: url('/../images/flash_light_before.png');
   background-repeat: no-repeat;
   background-size: 70% auto;
@@ -72,7 +72,7 @@
   right: 0;
   bottom: 0;
 }
-.envelope .planet .more-shine {
+.envelope .flashlight .more-shine {
   position: absolute;
   top: 0;
   left: 0;
@@ -85,7 +85,7 @@
   overflow: hidden;
   opacity: .5;
 }
-.envelope .planet:after {
+.envelope .flashlight:after {
   content: '';
   width: 300%;
   height: 150%;
@@ -128,18 +128,6 @@
   -o-transition: all 1s;
   transition: all 1s;
 }
-/*.envelope .logo .p1 {
-  background-image: url('http://agenciavirtude.com.br/antigo/images/p1.png');
-}
-.envelope .logo .p2 {
-  background-image: url('http://agenciavirtude.com.br/antigo/images/p2.png');
-}
-.envelope .logo .p3 {
-  background-image: url('http://agenciavirtude.com.br/antigo/images/p3.png');
-}
-.envelope .logo .p4 {
-  background-image: url('http://agenciavirtude.com.br/antigo/images/p4.png');
-}*/
 .envelope .logo .sob {
   top: -30px;
   position: absolute;
@@ -181,9 +169,12 @@
 }
 
 .name {
+  letter-spacing: .1em;
   font-size: 3em;
-  margin-top: .6em;
+  margin-top: .7em;
+  font-weight: 200;
 }
+
 
 @-moz-keyframes ma {
   0% {
@@ -380,7 +371,7 @@
     -o-transform: scale(1.1);
   }
 }
-.envelope .planet .more-shine {
+.envelope .flashlight .more-shine {
   -webkit-animation: shinemore 5s cubic-bezier(1, 0.51, 0.69, 0.81) forwards;
   -moz-animation: shinemore 5s cubic-bezier(1, 0.51, 0.69, 0.81) forwards;
   animation: shinemore 5s cubic-bezier(1, 0.51, 0.69, 0.81) forwards;
@@ -393,7 +384,7 @@
     opacity: 0;
   }
   100% {
-    opacity: 1;
+    opacity: .8;
   }
 }
 @-webkit-keyframes shinemore {
@@ -401,7 +392,7 @@
     opacity: 0;
   }
   100% {
-    opacity: 1;
+    opacity: .8;
   }
 }
 @keyframes shinemore {
@@ -409,10 +400,10 @@
     opacity: 0;
   }
   100% {
-    opacity: 1;
+    opacity: .8;
   }
 }
-.envelope .planet:after {
+.envelope .flashlight:after {
   -webkit-animation: reveal 5s cubic-bezier(1, 0.51, 0.69, 0.81) forwards;
   -moz-animation: reveal 5s cubic-bezier(1, 0.51, 0.69, 0.81) forwards;
   animation: reveal 5s cubic-bezier(1, 0.51, 0.69, 0.81) forwards;
