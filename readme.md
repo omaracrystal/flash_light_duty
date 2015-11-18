@@ -8,11 +8,7 @@ This app is similar to Pictionary without the stress of having to draw anything.
 
 ## Technologies:
 
-- Meteor - Angular - Node - MongoDB - JavaScript - HTML5 - CSS3 - SASS - Jasmine - Cordova - Fam.us - SVGs - N.io/ WebSockets - Spacebars Compiler - Canvas
-
-#### OR?
-
-- MEAN - MongoDB - Express- Node - JavaScript - HTML5 - CSS3 - SASS - Mocha&Chai - Gulp - SVGs - N.io - WebSockets - Canvas
+- MEAN - MongoDB - Express - Node - JavaScript - HTML5 - CSS3 - SASS - Mocha&Chai - Gulp - SVGs - N.io - WebSockets - Canvas - D3 - User Auth Tokens
 
 
 
