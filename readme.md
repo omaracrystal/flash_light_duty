@@ -17,7 +17,7 @@ This app is similar to Pictionary without the stress of having to draw anything.
 
 
 ## Schedule:
-### Meteor structure of project:
+### Structure of project:
 - **F= Front End, B= Back End**
 - F/ create logo animation/ Main Page
 - F/ How to play section and About (last)
